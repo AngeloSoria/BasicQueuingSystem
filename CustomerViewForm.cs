@@ -30,7 +30,7 @@ namespace BasicQueuingSystem
         private void CashierForm_UpdateQueueProgress(object sender, EventArgs e)
         {
             // doesnt get invoked.
-            lblCurrentServing.Text = CashierClass.CashierQueue.Count > 0 ? CashierClass.CashierQueue.Peek() : "";
+            lblCurrentServing.Text = CashierClass.CashierQueue.Count > 0 ? CashierClass.CashierQueue.Peek() : "test";
         }
     }
 }
