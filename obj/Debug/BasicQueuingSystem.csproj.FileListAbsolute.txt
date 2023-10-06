@@ -1,0 +1,12 @@
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\bin\Debug\BasicQueuingSystem.exe.config
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\bin\Debug\BasicQueuingSystem.exe
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\bin\Debug\BasicQueuingSystem.pdb
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.csproj.AssemblyReference.cache
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.QueuingForm.resources
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.Properties.Resources.resources
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.csproj.GenerateResource.cache
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.csproj.CoreCompileInputs.cache
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.exe
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.pdb
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.CashierWindowQueue.resources
+C:\Users\imang\OneDrive\Documents\PROGRAMMING\NET App\BasicQueuingSystem\obj\Debug\BasicQueuingSystem.CustomerViewForm.resources
